@@ -24,7 +24,7 @@ on:
   # Creates "Run workflow" button in the workflow tab
   workflow_dispatch:
   # Uncomment if you want Pac-Man to run on push
-  # push:
+  push:
   # Uncomment if you want Pac-Man to run on a periodic schedule. This is useful when trying to hit spending limits.
   # schedule:
     # - cron: "0 */2 * * *"
